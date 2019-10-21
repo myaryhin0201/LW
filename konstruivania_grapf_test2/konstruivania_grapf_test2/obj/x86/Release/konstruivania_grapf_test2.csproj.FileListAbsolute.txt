@@ -1,0 +1,17 @@
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Release\konstruivania_grapf_test2.exe
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\bin\Release\konstruivania_grapf_test2.pdb
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\btn_exit.baml
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\App.baml
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\btn_exit.g.cs
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\MainWindow.g.cs
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\App.g.cs
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\konstruivania_grapf_test2_MarkupCompile.cache
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\konstruivania_grapf_test2_MarkupCompile.lref
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\MainWindow.baml
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\konstruivania_grapf_test2.g.resources
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\konstruivania_grapf_test2.Properties.Resources.resources
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\konstruivania_grapf_test2.csproj.GenerateResource.Cache
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\konstruivania_grapf_test2.exe
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\konstruivania_grapf_test2.pdb
+C:\Users\Artemka\Desktop\konstruivania_grapf_test2\konstruivania_grapf_test2\obj\x86\Release\konstruivania_grapf_test2.csprojResolveAssemblyReference.cache
